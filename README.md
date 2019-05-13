@@ -61,7 +61,7 @@ First we install the dependencies on the server, then website.
 
 * Get a google developer api key
 * Go to your webserver files to run composer into
-* Run `composer create-project michaelbelgium/youtube-to-mp3 [directoryname]` - where `directoryname` is .. a directory where people can access the API from.
+* Run `composer create-project drooz/youtube-to-mp3 [directoryname]` - where `directoryname` is .. a directory where people can access the API from.
 * Edit defines:
 
 In `search.php` you can define these variables:
